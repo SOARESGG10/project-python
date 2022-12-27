@@ -1,7 +1,7 @@
 <h1 align="center">CPF Validator</h1>
 
 <div align="center">
-    <img src="./img/cpu.svg">
+    <img src="./public/img/cpu.svg">
 </div>
 
 <div style="padding: 10px 0px">
@@ -16,4 +16,4 @@
 
 <h2> 🔧 | Ferramentas utilizadas:</h2>
 
-<a href="https://www.python.org/doc/" target="_blank"><img src="/img/python.svg"></a>
+<a href="https://www.python.org/doc/" target="_blank"><img src="./public/img/python.svg"></a>
