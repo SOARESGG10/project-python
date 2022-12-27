@@ -17,3 +17,7 @@
 <h2> 🔧 | Ferramentas utilizadas:</h2>
 
 <a href="https://www.python.org/doc/" target="_blank"><img src="./public/img/python.svg"></a>
+
+---
+
+<b>🔄 | Em desenvolvimento.</b>
